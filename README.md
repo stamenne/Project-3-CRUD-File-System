@@ -15,6 +15,9 @@ The goal was to keep it simple and extremely user-friendly while still handling 
 2. Move files to a selected folder
 3. Copy files to a selected folder
 
+## Dependencies
+1. Python 3.0+
+
 ## How To Run
 Install Python 3.x and run the file from a terminal. All instructions for further operations are made clear with prompts.
 
